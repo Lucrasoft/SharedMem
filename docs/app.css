@@ -1,0 +1,44 @@
+﻿body {
+  padding-top: 5rem;
+  text-align: center;
+  margin-left: 1rem;
+  margin-right:1rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+ 
+}
+
+
+.simulator {
+      width:100%;
+      /*height:400px;*/
+}
+
+.simulator td {
+    width:25px;
+    height:25px;
+    text-align:center;
+    vertical-align:central;
+      border-width:2px;
+      border-color:gray;
+      border-style:solid;
+}
+
+.td1 {
+    background-color:lightcoral;
+}
+
+.td2 {
+    background-color:lightblue;
+}
+
+.tdselect {
+    font-weight:bold;
+}
+
+.thread-module {
+  padding: 1rem;
+  background-color: #f5f5f5;
+  border-radius: .25rem;
+}

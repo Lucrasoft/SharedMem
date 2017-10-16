@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharedMemGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Execute1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp\codecompo\ThreadSample1.exe</Value>
+    </Setting>
+    <Setting Name="WorkingDir1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Execute2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp\codecompo\ThreadSample1.exe</Value>
+    </Setting>
+    <Setting Name="WorkingDir2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Params1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Params2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
