@@ -1,6 +1,6 @@
 # Communication
 
-Communication between our memory controller and your thread is done by Standard I/O alias the Console.
+Communication between our memory controller and your thread is done by Standard I/O alias the Console. So you can use any standard i/o enabled language to develop your thread.
 
 ## Boot proces
 
@@ -48,7 +48,8 @@ Your thread must response in 'fair' amount of time (decided later, but for now, 
 
 ## Starterkit
 
-A C# sample implementation is provided in the repository.
+A C# sample implementation is provided in the repository. See: ThreadSample1
+
 
 
 

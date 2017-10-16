@@ -18,13 +18,13 @@ Our custom-designed controller can support 2 threads simultaneously. Due to the 
 
 ## Specifications
 
-You can find the details and specifications of our memory chip [here](SPECS.md), as well as the communication protocol between your code and the memory controller.
+You can find the details and specifications of our memory chip [here](SPECS.md), as well as the [communication protocol](COMMUNICATION.md) between your code and the memory controller.
 
 ## Competition
 
 In this competition your code/thread must compete with another thread to gain the complete capacity of the memory! 
 
-Both threads start with the ownership of a single cell. By smart planning of your instructions to the controller, your thread must get full ownership of all the cells.
+Both threads start with the ownership of a single cell. By smart planning of your instructions to the controller, your thread must get full ownership of all the cells. You can witness a battle of threads at our [web demo](https://lucrasoft.github.io/SharedMem/).
 
 Other competitions exists as well. [Competition details](COMPETITION.md)
 
