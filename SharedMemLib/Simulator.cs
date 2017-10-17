@@ -123,7 +123,7 @@ namespace SharedMemLib
                         int val2 = State.CellsValue2();
                         if (val1 == val2)
                         {
-                            State.Winner = 1;
+                            State.Winner = 2;
                         }
                         else
                         {
